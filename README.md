@@ -1,4 +1,4 @@
-# nppGOob
+# npp-golang-obsidian
 Go language syntax highlighting for Notepad++'s Obsidian (dark) theme, based on the [npp-golang] by tlowry
 
 ### Installation for Notepad++ 6
